@@ -1,8 +1,9 @@
 FROM node:16-alpine
-COPY . /app/back-end
+WORKDIR /app/back-end
+ADD node_modules.tar.gz .
+COPY . .
 EXPOSE 3001
 #ENV key=value
-WORKDIR /app/back-end
 #RUN command
 ENTRYPOINT [ "npm" ]
 CMD [ "start" ]
