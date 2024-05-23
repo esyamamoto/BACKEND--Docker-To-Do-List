@@ -1,10 +1,20 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# aplicativo de tarefas
+
+<details>
+<summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+
+Eu “conteinerizei” as aplicações de front-end, back-end e testes, criando uma conexão entre elas e orquestrando seu funcionamento! 🐋
+
+ </details>
+
+<details>
+  <summary><strong>:memo: Habilidades</strong></summary><br />
+
+  Neste projeto:
+- O conhecimento dos comandos dockers no CLI - Interface de linha de comando;
+- A habilidade de criar um container Docker para uma aplicação de front-end;
+- A habilidade de criar um container Docker para uma aplicação de back-end;
+- A habilidade de criar um container Docker para uma aplicação de testes;
+- A habilidade de orquestrar os três containers utilizando o Docker compose.
+</details>
+
